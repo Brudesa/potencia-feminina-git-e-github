@@ -37,3 +37,6 @@
 ### git add [caminho do arquivo]
 
 \*\*\*adiciona um arquivo em especifico
+
+git add .
+git commit -m "adicionando o comando git commit as notas de aula"
