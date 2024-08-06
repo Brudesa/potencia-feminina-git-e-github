@@ -40,3 +40,8 @@
 
 git add .
 git commit -m "adicionando o comando git commit as notas de aula"
+
+### git checkout -b
+
+\*\*\* Cria uma nova branch, vou usar o seguinte comando:
+git checkout -b Modulo 03
